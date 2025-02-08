@@ -99,7 +99,10 @@
         "@venusos/plugin-quai": "workspace:*",
         "@venusos/plugin-b2": "workspace:*",
         "@venusos/plugin-nft-collections": "workspace:*",
+        "axios": "1.13.2",
         "readline": "1.3.0",
+        "socket.io": "4.8.1",
+        "socket.io-client": "4.8.1",
         "ws": "8.18.0",
         "yargs": "17.7.2"
     },
